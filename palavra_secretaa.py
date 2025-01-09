@@ -62,7 +62,7 @@ class Faculdade:
                     break
                 else:
                     self.contagem += 1
-                    os.system( 'clear')
+                    os.system('clear')
                     print('ERROUUUUU')
                     continue
 
