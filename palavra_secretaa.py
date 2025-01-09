@@ -213,7 +213,7 @@ class Faculdade:
         print('-------------------------------------')
         print(f'Vez do {self.player_2}')
         print(f'Nível escolhido = {self.nivel}')
-        print('SE VOCÊ SOUBER A PALAVRA DIGITE # e TENTA A SORTE! ')
+        print('SE VOCÊ SOUBER A PALAVRA DIGITE # e TENTA A SORTE!')
 
         tempo_inicio_2 = time.time()
         self.minutos_2 = 0

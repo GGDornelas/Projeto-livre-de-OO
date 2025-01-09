@@ -75,5 +75,12 @@
         "nivel": 1,
         "tentativas": 10,
         "tempo_gasto": "4.82"
+    },
+    {
+        "jogador": "Pedro",
+        "tema": "Ingl\u00eas",
+        "nivel": 2,
+        "tentativas": 23,
+        "tempo_gasto": "14.30"
     }
 ]
