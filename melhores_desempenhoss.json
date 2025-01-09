@@ -1,0 +1,72 @@
+[
+    {
+        "jogador": "Joao",
+        "tema": "Ingl\u00eas",
+        "nivel": 1,
+        "tentativas": 11,
+        "tempo_gasto": 5.94
+    },
+    {
+        "jogador": "Jogador 1",
+        "tema": "Faculdade",
+        "nivel": 1,
+        "tentativas": 12,
+        "tempo_gasto": "8.96"
+    },
+    {
+        "jogador": "GGG",
+        "tema": "Ingl\u00eas",
+        "nivel": 3,
+        "tentativas": 10,
+        "tempo_gasto": "5.70"
+    },
+    {
+        "jogador": "a",
+        "tema": "Ingl\u00eas",
+        "nivel": 2,
+        "tentativas": 20,
+        "tempo_gasto": "11.01"
+    },
+    {
+        "jogador": "Giovanni",
+        "tema": "Paises",
+        "nivel": 4,
+        "tentativas": 23,
+        "tempo_gasto": "12.11"
+    },
+    {
+        "jogador": "gg",
+        "tema": "Ingl\u00eas",
+        "nivel": 1,
+        "tentativas": 5,
+        "tempo_gasto": "2.82"
+    },
+    {
+        "jogador": "Roger",
+        "tema": "Ingl\u00eas",
+        "nivel": 2,
+        "tentativas": 11,
+        "tempo_gasto": "7.80"
+    },
+    {
+        "jogador": "a]gg",
+        "tema": "Ingl\u00eas",
+        "nivel": 3,
+        "tentativas": 13,
+        "tempo_gasto": "6.82"
+    },
+    {
+        "jogador": "GGGG",
+        "tema": "Ingl\u00eas",
+        "nivel": 3,
+        "tentativas": 6,
+        "tempo_gasto": "4.77"
+    },
+    {
+        "jogador": "a",
+        "tema": "Ingl\u00eas",
+        "nivel": 2,
+        "tentativas": 12,
+        "tempo_gasto": "10.94"
+    }
+]
