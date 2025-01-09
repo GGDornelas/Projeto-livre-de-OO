@@ -3,6 +3,7 @@ import os
 import time
 import json
 
+
 class Faculdade:
     def __init__(self, nivel):
         self.nivel = nivel
@@ -61,7 +62,7 @@ class Faculdade:
                     break
                 else:
                     self.contagem += 1
-                    os.system('clear')
+                    os.system( 'clear')
                     print('ERROUUUUU')
                     continue
 
